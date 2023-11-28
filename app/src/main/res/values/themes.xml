@@ -17,6 +17,10 @@
 
     <style name="TitleStyle.Red">
         <item name="android:textColor">#E91E63</item>
+    </style>
+
+    <style name="TitleStyle.RedAndTextSize">
+        <item name="android:textColor">#E91E63</item>
         <item name="android:textSize">30sp</item>
     </style>
 </resources>
